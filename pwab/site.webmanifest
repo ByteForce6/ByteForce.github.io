@@ -1,6 +1,6 @@
 {
  "short_name": "Byte F",
- "name": "PWA de ByteForce",
+ "name": "ByteForce",
  "id": "/index.html",
  "start_url": "/index.html",
  "display": "standalone",
