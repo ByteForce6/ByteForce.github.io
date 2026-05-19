@@ -15,10 +15,10 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "4.01"
+const VERSION = "4.03"
 
 /** Nombre del archivo de cache. */
-const CACHE = "ejemploPWA"
+const CACHE = "ByteForcePWA"
 
 /**
  * Archivos requeridos para que la aplicación funcione fuera de
