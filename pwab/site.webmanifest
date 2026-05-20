@@ -10,17 +10,17 @@
  "screenshots": [
   {
    "src": "/img/screenshot_horizontal.png",
-   "sizes": "1680x592",
+   "sizes": "1156x646",
    "type": "image/png",
    "form_factor": "wide",
    "label": "Byte Force"
   },
   {
    "src": "/img/screenshot_vertical.png",
-   "sizes": "666x636",
+   "sizes": "618x640",
    "type": "image/png",
    "form_factor": "narrow",
-   "label": "Byte Force"
+   "label": "Byte Force (2)"
   }
  ],
  "icons": [
