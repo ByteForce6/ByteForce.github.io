@@ -15,7 +15,7 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "4.1"
+const VERSION = "4.2"
 
 /** Nombre del archivo de cache. */
 const CACHE = "ByteForcePWA"
